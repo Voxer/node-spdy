@@ -39,7 +39,7 @@
     "http-deceiver": "^1.2.7",
     "safe-buffer": "^5.0.1",
     "select-hose": "^2.0.0",
-    "spdy-transport": "anandsuresh/spdy-transport#fix/windowBits"
+    "spdy-transport": "anandsuresh/spdy-transport#voxer"
   },
   "devDependencies": {
     "istanbul": "^0.4.5",
