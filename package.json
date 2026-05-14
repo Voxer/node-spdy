@@ -36,7 +36,6 @@
   "dependencies": {
     "debug": "^2.6.8",
     "handle-thing": "^1.2.5",
-    "http-deceiver": "^1.2.7",
     "safe-buffer": "^5.0.1",
     "select-hose": "^2.0.0",
     "spdy-transport": "Voxer/spdy-transport#voxer"
